@@ -1,4 +1,4 @@
-package com.brite.emp.exception;
+package com.brite.exceptionhandler;
 
 
 import jakarta.servlet.http.HttpServletRequest;
