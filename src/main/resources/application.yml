@@ -10,7 +10,7 @@ spring:
     driver-class-name: com.mysql.cj.jdbc.Driver
     url: jdbc:mysql://localhost:3306/db_example?useSSL=false
     username: root
-    password: root
+    password: Ritvik24!
   jpa:
     hibernate:
       ddl-auto: update
@@ -19,3 +19,6 @@ spring:
     properties:
       hibernate:
         dialect: org.hibernate.dialect.MySQLDialect
+
+  config:
+    additional-location: classpath:properties/common/
