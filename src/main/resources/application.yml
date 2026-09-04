@@ -21,4 +21,6 @@ spring:
         dialect: org.hibernate.dialect.MySQLDialect
 
   config:
-    additional-location: classpath:properties/common/
+   additional-location: classpath:properties/common/
+
+ #Check your one note
